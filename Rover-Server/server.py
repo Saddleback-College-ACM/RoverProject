@@ -1,8 +1,11 @@
 from __future__ import print_function
+import sys
+sys.path.insert(0, 'lib')
 from flask import Flask, render_template, redirect, Response
 from flask_socketio import SocketIO, emit, join_room
 import json
 from threading import Thread
+
 
 import base64
 

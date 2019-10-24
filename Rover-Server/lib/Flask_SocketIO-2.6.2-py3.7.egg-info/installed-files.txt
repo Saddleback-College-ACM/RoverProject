@@ -1,0 +1,13 @@
+..\flask_socketio\__init__.py
+..\flask_socketio\__pycache__\__init__.cpython-37.pyc
+..\flask_socketio\__pycache__\cli.cpython-37.pyc
+..\flask_socketio\__pycache__\test_client.cpython-37.pyc
+..\flask_socketio\cli.py
+..\flask_socketio\test_client.py
+PKG-INFO
+SOURCES.txt
+dependency_links.txt
+entry_points.txt
+not-zip-safe
+requires.txt
+top_level.txt
